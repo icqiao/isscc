@@ -169,32 +169,6 @@ http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 
-#📺 CCTV系列
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="CCTV系列",CCTV世界地理
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="CCTV系列",CCTV兵器科技
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="CCTV系列",CCTV央视台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视文化精品.png" group-title="CCTV系列",CCTV央视文化精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="CCTV系列",CCTV女性时尚
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="CCTV系列",CCTV怀旧剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="CCTV系列",CCTV电视指南
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="CCTV系列",CCTV第一剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="CCTV系列",CCTV风云剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="CCTV系列",CCTV风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="CCTV系列",CCTV风云音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="CCTV系列",CCTV高尔夫网球
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-
 #📺 NewTV系列
 #EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电视剧.png" group-title="📺 NewTV系列",超级电视剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
