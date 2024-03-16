@@ -827,6 +827,10 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 
 #国外频道
+#EXTINF:-1 tvg-name="CNN 新闻" tvg-logo="https://live.fanmingming.com/tv/CNN 新闻.png" group-title="国外频道",CNN 新闻
+https://turnerlive.warnermediacdn.com:443/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxNews.png" group-title="国外频道",FoxNews
+https://fox-foxnewsnow-samsungus.amagi.tv:443/playlist720p.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="国外频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.com/tv/Arirang TV.png" group-title="国外频道",Arirang TV
