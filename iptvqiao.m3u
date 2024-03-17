@@ -563,9 +563,10 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#https://s2.pub/cctv-2
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8https://s2.pub/cctv-3
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8https://s2.pub/cctv-3
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳",凤凰香港
-http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+https://yang-1989.eu.org/jd/fhxg0
+
 
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳",TVB翡翠台
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330#https://s2.pub/cctv-4
