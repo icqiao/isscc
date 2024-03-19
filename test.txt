@@ -1,3 +1,18 @@
+
+北京,#genre#
+1905电影a,http://mywlkj.ddns.net:754/tv/1905.php?id=1905a 
+1905电影b,http://mywlkj.ddns.net:754/tv/1905.php?id=1905b
+北京淘剧场,http://home4.kmo.ink:8888/udp/239.3.1.95:8001
+北京淘娱乐,http://home4.kmo.ink:8888/udp/239.3.1.100:8001
+北京萌宠 TV,http://home4.kmo.ink:8888/udp/239.3.1.102:8001
+北京淘精彩,http://home4.kmo.ink:8888/udp/239.3.1.178:8001 
+北京淘BABY,http://home4.kmo.ink:8888/udp/239.3.1.238:8001
+北京淘电影,http://home4.kmo.ink:8888/udp/239.3.1.250:8001
+北京大健康,http://home4.kmo.ink:8888/udp/239.3.1.251:8001
+
+
+
+
 韩国,#genre#
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8#http://mytv.dothome.co.kr/ch/public/1.php
 KBS2 ,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8#http://mytv.dothome.co.kr/ch/public/3.php
